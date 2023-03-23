@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Phone Doctor</string>
+    <string name="front_camera">Front Camera</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="receiver">Receiver</string>
+    <string name="compass">Compass</string>
+    <string name="cpu">CPU</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="storage">Storage</string>
+    <string name="battery">Battery</string>
+    <string name="gps">GPS</string>
+    <string name="microphone">Microphone</string>
+    <string name="network">Network</string>
+    <string name="power_button">Power Button</string>
+    <string name="volume_button">Volume Button</string>
+    <string name="screen">Screen</string>
+    <string name="flashlight">Flashlight</string>
+    <string name="touchscreen">Touchscreen</string>
+    <string name="connector">Connector</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="wifi">WiFi</string>
+    <string name="back_camera">Back Camera</string>
+
+
+</resources>
