@@ -4,14 +4,14 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class Receiver extends AppCompatActivity {
+public class Battery extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_receiver);
+        setContentView(R.layout.activity_battery);
 
         // setting action bar text
-        getSupportActionBar().setTitle("Receiver Test");
+        getSupportActionBar().setTitle("Battery Test");
     }
 }

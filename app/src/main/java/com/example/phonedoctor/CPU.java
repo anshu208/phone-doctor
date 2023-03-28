@@ -10,5 +10,8 @@ public class CPU extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cpu);
+
+        // setting action bar text
+        getSupportActionBar().setTitle("CPU Test");
     }
 }

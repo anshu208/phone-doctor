@@ -10,5 +10,8 @@ public class Gyroscope extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_gyroscope);
+
+        // setting action bar text
+        getSupportActionBar().setTitle("Gyroscope Test");
     }
 }

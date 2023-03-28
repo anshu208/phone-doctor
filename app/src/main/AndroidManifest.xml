@@ -12,6 +12,48 @@
         android:theme="@style/Theme.PhoneDoctor"
         tools:targetApi="31">
         <activity
+            android:name=".BackCamera"
+            android:exported="false" />
+        <activity
+            android:name=".Wifi"
+            android:exported="false" />
+        <activity
+            android:name=".Vibrate"
+            android:exported="false" />
+        <activity
+            android:name=".Connector"
+            android:exported="false" />
+        <activity
+            android:name=".TouchScreen"
+            android:exported="false" />
+        <activity
+            android:name=".FlashLight"
+            android:exported="false" />
+        <activity
+            android:name=".Screen"
+            android:exported="false" />
+        <activity
+            android:name=".VolumeButton"
+            android:exported="false" />
+        <activity
+            android:name=".PowerButton"
+            android:exported="false" />
+        <activity
+            android:name=".Network"
+            android:exported="false" />
+        <activity
+            android:name=".Microphone"
+            android:exported="false" />
+        <activity
+            android:name=".GPS"
+            android:exported="false" />
+        <activity
+            android:name=".Battery"
+            android:exported="false" />
+        <activity
+            android:name=".Storage"
+            android:exported="false" />
+        <activity
             android:name=".Gyroscope"
             android:exported="false" />
         <activity

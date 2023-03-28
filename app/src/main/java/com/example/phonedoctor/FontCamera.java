@@ -10,5 +10,8 @@ public class FontCamera extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_font_camera);
+
+        // setting action bar text
+        getSupportActionBar().setTitle("Front Camera Test");
     }
 }

@@ -10,5 +10,8 @@ public class Fingerprint extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fingerprint);
+
+        // setting action bar text
+        getSupportActionBar().setTitle("Fingerprint Test");
     }
 }

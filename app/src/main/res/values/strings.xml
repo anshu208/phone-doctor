@@ -21,6 +21,32 @@
     <string name="vibrate">Vibrate</string>
     <string name="wifi">WiFi</string>
     <string name="back_camera">Back Camera</string>
+    //button
+    <string name="one_touch_test">One Touch Test</string>
+    <string name="test_back_camera">Test Back Camera</string>
+    <string name="test_battery">Test Battery</string>
+    <string name="test_bluetooth">Test Bluetooth</string>
+    <string name="test_compass">Test Compass</string>
+    <string name="test_connector">Test Connector</string>
+    <string name="test_cpu">Test CPU</string>
+    <string name="test_fingerprint">Test Fingerprint</string>
+    <string name="test_flashlight">Test Flashlight</string>
+    <string name="test_front_camera">Test Front Camera</string>
+    <string name="test_gps">Test GPS</string>
+    <string name="test_gyroscope">Test Gyroscope</string>
+    <string name="test_microphone">Test Microphone</string>
+    <string name="test_network">Test Network</string>
+    <string name="test_power_button">Test Power Button</string>
+    <string name="test_receiver">Test Receiver</string>
+    <string name="test_storage">Test Storage</string>
+    <string name="test_touch_screen">Test Touch Screen</string>
+    <string name="test_vibrate">Test Vibrate</string>
+    <string name="test_volume_button">Test Volume Button</string>
+    <string name="test_wifi">Test WiFi</string>
+    <string name="test_screen">Test Screen</string>
+
+
+
 
 
 </resources>
