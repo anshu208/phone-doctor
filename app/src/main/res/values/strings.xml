@@ -3,7 +3,7 @@
     <string name="front_camera">Front Camera</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="receiver">Receiver</string>
-    <string name="compass">Compass</string>
+    <string name="about">About</string>
     <string name="cpu">CPU</string>
     <string name="fingerprint">Fingerprint</string>
     <string name="gyroscope">Gyroscope</string>
@@ -26,7 +26,7 @@
     <string name="test_back_camera">Test Back Camera</string>
     <string name="test_battery">Test Battery</string>
     <string name="test_bluetooth">Test Bluetooth</string>
-    <string name="test_compass">Test Compass</string>
+    <string name="test_about">About Phone</string>
     <string name="test_connector">Test Connector</string>
     <string name="test_cpu">Test CPU</string>
     <string name="test_fingerprint">Test Fingerprint</string>

@@ -2,7 +2,6 @@ package com.example.phonedoctor;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.app.appsearch.StorageInfo;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -34,8 +33,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //main to compass
-    public void compas(View view) {
-        Intent intent = new Intent(MainActivity.this, compass.class);
+    public void about(View view) {
+        Intent intent = new Intent(MainActivity.this, About.class);
         startActivity(intent);
     }
 
@@ -58,13 +57,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
      //main to storage
-    public void storag(View view) {
+    public void storage(View view) {
         Intent intent = new Intent(MainActivity.this,Storage.class );
         startActivity(intent);
     }
 
     //main to battery
-    public void batry(View view) {
+    public void battery(View view) {
         Intent intent = new Intent(MainActivity.this, Battery.class);
         startActivity(intent);
     }
