@@ -14,4 +14,5 @@ public class About extends AppCompatActivity {
         // setting action bar text
         getSupportActionBar().setTitle("About Phone");
     }
+    // adding about
 }
