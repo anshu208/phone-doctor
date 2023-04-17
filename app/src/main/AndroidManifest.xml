@@ -63,7 +63,7 @@
             android:name=".CPU"
             android:exported="false" />
         <activity
-            android:name=".compass"
+            android:name=".About"
             android:exported="false" />
         <activity
             android:name=".Receiver"
