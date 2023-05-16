@@ -2,11 +2,11 @@
     <string name="app_name">Phone Doctor</string>
     <string name="front_camera">Front Camera</string>
     <string name="bluetooth">Bluetooth</string>
-    <string name="receiver">Receiver</string>
+    <string name="receiver">Speaker</string>
     <string name="about">About</string>
     <string name="cpu">CPU</string>
     <string name="fingerprint">Fingerprint</string>
-    <string name="gyroscope">Gyroscope</string>
+    <string name="gyroscope">Sensors</string>
     <string name="storage">Storage</string>
     <string name="battery">Battery</string>
     <string name="gps">GPS</string>
