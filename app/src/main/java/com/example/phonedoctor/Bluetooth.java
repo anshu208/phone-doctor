@@ -13,5 +13,10 @@ public class Bluetooth extends AppCompatActivity {
 
         // setting action bar text
         getSupportActionBar().setTitle("Bluetooth Test");
+
+
+
     }
+
+
 }
